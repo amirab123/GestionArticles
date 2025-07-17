@@ -1,4 +1,34 @@
-# React + Vite
+🗂️ GestionArticles
+GestionArticles est une application web développée avec React permettant de gérer un inventaire d'articles (mobilier, électronique, etc.).
+Elle offre une interface simple et moderne pour consulter, ajouter et suivre les articles en stock.
+
+✨ Fonctionnalités
+✅ Affichage de la liste des articles avec leurs quantités et catégories
+
+➕ Formulaire pour ajouter un nouvel article
+
+📊 Total d'articles en stock
+
+🌙 Thème clair / sombre (dark mode)
+
+🔔 Notification visuelle à l’ajout d’un article
+
+🧠 Gestion centralisée des données via le Context API
+
+📁 Architecture modulaire avec composants React
+
+🌐 Navigation dynamique avec React Router et Outlet
+
+🛠️ Technologies utilisées
+React (avec hooks)
+
+React Router
+
+Context API
+
+HTML / CSS modernes
+
+Git + GitHub# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
